@@ -1,3 +1,5 @@
+#this temp is to create vpc and subnet
+
 provider "aws" {
  region = "sa-east-1"
 }
